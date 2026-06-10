@@ -102,7 +102,7 @@ Make sure the following software is installed:
 ---
 
 # Clone Repository
-git clone <>
+git clone https://github.com/core-j/rewards-service.git
 
 ---
 
