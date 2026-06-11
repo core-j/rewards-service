@@ -61,7 +61,7 @@ Total Reward Points:
 ---
 
 # Project Structure
-
+```
 src
  ├── main
  │    ├── java
@@ -86,6 +86,7 @@ src
                       ├── service
                                └── RewardServiceImplTest
 
+```
 ---
 
 # Setup Instructions
